@@ -1,4 +1,4 @@
-# Profile
+# Alok Kafle - Cybersecurity Portfolio 
 I am an IT and cybersecurity professional with a strong foundation in Level 1/2 technical support, service desk operations and systems administration.
 My background includes resolving hardware, software, Microsoft 365 and connectivity issues; administering Active Directory accounts and permissions; managing incidents through service desk queues; and supporting users across Windows, macOS and mobile environments. This experience has given me a practical understanding of how users, endpoints, networks and business systems operate—and where security risks can emerge.
 
